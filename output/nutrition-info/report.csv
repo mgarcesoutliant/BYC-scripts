@@ -1,0 +1,412 @@
+EXPECTED_CATEGORY,MENU_ITEM,DETECTED_CARD_TITLE,NUTRITION_INFO_STATUS,NUTRITION_MISMATCH,NUTRITION_SCREENSHOT
+Breakfast Specials,Special 1 - Two Eggs,SPECIAL 1 two eggs LOW RANGE*,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Special_1_Two_Eggs_nutrition.png
+Breakfast Specials,Special 1 - Two Eggs,SPECIAL 1 two eggs LOW RANGE*,VARIANT_MISMATCH,Calories: INPUT=1130 | UAT=750 || Calories from Fat: INPUT=530 | UAT=250 || Total Fat (g): INPUT=59 | UAT=28 || Sat Fat (g): INPUT=25 | UAT=12 || Cholest. (mg): INPUT=465 | UAT=415 || Sodium (mg): INPUT=1480 | UAT=770 || Carbs (g): INPUT=108 | UAT=96 || Dietary Fiber (g): INPUT=6 | UAT=10 || Sugar (g): INPUT=2 | UAT=8 || Protein (g): INPUT=41 | UAT=29,./output/nutrition-info/screenshots/nutrition/Special_1_Two_Eggs_nutrition.png
+Breakfast Specials,Special 2 - Pancakes,SPECIAL 2 pancakes LOW RANGE*,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Special_2_Pancakes_nutrition.png
+Breakfast Specials,Special 2 - Pancakes,SPECIAL 2 pancakes LOW RANGE*,VARIANT_MISMATCH,Calories: INPUT=1030 | UAT=700 || Calories from Fat: INPUT=580 | UAT=300 || Total Fat (g): INPUT=65 | UAT=33 || Sat Fat (g): INPUT=29 | UAT=16 || Cholest. (mg): INPUT=475 | UAT=425 || Sodium (mg): INPUT=1990 | UAT=1340 || Protein (g): INPUT=34 | UAT=24,./output/nutrition-info/screenshots/nutrition/Special_2_Pancakes_nutrition.png
+Breakfast Specials,Special 3 - French Toast,SPECIAL 3 french toast LOW RANGE,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Special_3_French_Toast_nutrition.png
+Breakfast Specials,Special 3 - French Toast,SPECIAL 3 french toast LOW RANGE,VARIANT_MISMATCH,Calories: INPUT=1000 | UAT=700 || Calories from Fat: INPUT=530 | UAT=270 || Total Fat (g): INPUT=59 | UAT=30 || Sat Fat (g): INPUT=24 | UAT=14 || Cholest. (mg): INPUT=495 | UAT=445 || Sodium (mg): INPUT=1380 | UAT=730 || Sugar (g): INPUT=7 | UAT=17,./output/nutrition-info/screenshots/nutrition/Special_3_French_Toast_nutrition.png
+Breakfast Specials,Special 4 - Biscuits & Gravy,SPECIAL 4 Biscuits & Gravy LOW RANGE*,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Special_4_Biscuits_and_Gravy_nutrition.png
+Breakfast Specials,Special 4 - Biscuits & Gravy,SPECIAL 4 Biscuits & Gravy LOW RANGE*,VARIANT_MISMATCH,Calories: INPUT=1190 | UAT=1160 || Calories from Fat: INPUT=480 | UAT=450 || Total Fat (g): INPUT=53 | UAT=50 || Sat Fat (g): INPUT=24 | UAT=21,./output/nutrition-info/screenshots/nutrition/Special_4_Biscuits_and_Gravy_nutrition.png
+Breakfast Specials,Special 4 - Biscuits & Gravy,SPECIAL 4 Biscuits & Gravy LOW RANGE*,VARIANT_MISMATCH,Calories: INPUT=820 | UAT=1160 || Calories from Fat: INPUT=380 | UAT=450 || Total Fat (g): INPUT=43 | UAT=50 || Sat Fat (g): INPUT=16 | UAT=21 || Trans Fat (g): INPUT=0 | UAT=1 || Cholest. (mg): INPUT=425 | UAT=460 || Sodium (mg): INPUT=1140 | UAT=2750 || Carbs (g): INPUT=68 | UAT=135 || Dietary Fiber (g): INPUT=15 | UAT=4 || Sugar (g): INPUT=2 | UAT=25 || Protein (g): INPUT=42 | UAT=44,./output/nutrition-info/screenshots/nutrition/Special_4_Biscuits_and_Gravy_nutrition.png
+Breakfast Specials,Special 4 - Biscuits & Gravy,SPECIAL 4 Biscuits & Gravy LOW RANGE*,VARIANT_MISMATCH,Calories: INPUT=890 | UAT=1160 || Calories from Fat: INPUT=420 | UAT=450 || Total Fat (g): INPUT=47 | UAT=50 || Sat Fat (g): INPUT=18 | UAT=21 || Trans Fat (g): INPUT=0 | UAT=1 || Cholest. (mg): INPUT=425 | UAT=460 || Sodium (mg): INPUT=1710 | UAT=2750 || Carbs (g): INPUT=71 | UAT=135 || Dietary Fiber (g): INPUT=12 | UAT=4 || Sugar (g): INPUT=4 | UAT=25,./output/nutrition-info/screenshots/nutrition/Special_4_Biscuits_and_Gravy_nutrition.png
+Breakfast Specials,Iron Man Challenge,IRON MAN CHALLENGE,MATCH,,./output/nutrition-info/screenshots/nutrition/Iron_Man_Challenge_nutrition.png
+BREAKFAST ENTREES,CHORIZO BURRITOS,,NOT_FOUND,,
+BREAKFAST ENTREES,Ranchero Scramble,,NOT_FOUND,,
+BREAKFAST ENTREES,Spicy Vegan Scramble,,NOT_FOUND,,
+Breakfast Trays,Scrambled Eggs Tray,,NOT_FOUND,,
+Breakfast Trays,Applewood Bacon Tray,,NOT_FOUND,,
+Breakfast Trays,Sausage Links Tray,,NOT_FOUND,,
+Breakfast Trays,Hashbrowns Tray,,NOT_FOUND,,
+Breakfast Trays,Homefries Tray,,NOT_FOUND,,
+Breakfast Trays,Mini Blueberry Muffins Tray,,NOT_FOUND,,
+Breakfast Trays,Pancakes Tray,,NOT_FOUND,,
+Breakfast Trays,Waffles Tray,,NOT_FOUND,,
+Breakfast Trays,French Toast Tray,,NOT_FOUND,,
+Breakfast Trays,Parfaits,,NOT_FOUND,,
+Breakfast Trays,Fruit Tray,,NOT_FOUND,,
+Sandwiches & Wraps,Monte Cristo,,NOT_FOUND,,
+Sandwiches & Wraps,Turkey Croissant Sandwich,,NOT_FOUND,,
+Sandwiches & Wraps,Breakfast Croissant Sandwich,,NOT_FOUND,,
+Catering - Family Style,Scrambled Eggs (1/2 Cup),SCRAMBLED EGGS (1/2 CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Scrambled_Eggs_1_2_Cup_nutrition.png
+Catering - Family Style,Fresh Fruit (1/2 Cup),FRESH FRUIT (1/2 CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Fresh_Fruit_1_2_Cup_nutrition.png
+Catering - Family Style,Bacon (2 Slices),BACON (2 SLICES),MATCH,,./output/nutrition-info/screenshots/nutrition/Bacon_2_Slices_nutrition.png
+Catering - Family Style,Pancake Syrup (1),PANCAKE SYRUP (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Pancake_Syrup_1_nutrition.png
+Catering - Family Style,French Toast (1 Slice),FRENCH TOAST (1 SLICE),MATCH,,./output/nutrition-info/screenshots/nutrition/French_Toast_1_Slice_nutrition.png
+Catering - Family Style,Buttermilk Pancakes (1 each),BUTTERMILK PANCAKES (1 EACH),MATCH,,./output/nutrition-info/screenshots/nutrition/Buttermilk_Pancakes_1_each_nutrition.png
+Catering - Family Style,Butter Chip (1 each),BUTTER CHIP (1 EACH),MATCH,,./output/nutrition-info/screenshots/nutrition/Butter_Chip_1_each_nutrition.png
+Catering - Family Style,Belgian Waffle (1/2 each),BELGIAN WAFFLE (1/2 EACH),MATCH,,./output/nutrition-info/screenshots/nutrition/Belgian_Waffle_1_2_each_nutrition.png
+Catering - Platters,Veggie Sandwich (Wheat) (1/2),VEGGIE SANDWICH (WHEAT) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Veggie_Sandwich_Wheat_1_2_nutrition.png
+Catering - Platters,Veggie Sandwich (Sourdough) (1/2),VEGGIE SANDWICH (SOURDOUGH) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Veggie_Sandwich_Sourdough_1_2_nutrition.png
+Catering - Platters,Veggie Sandwich (White) (1/2),VEGGIE SANDWICH (WHITE) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Veggie_Sandwich_White_1_2_nutrition.png
+Catering - Platters,Club Sandwich (Wheat) (1/2),CLUB SANDWICH (WHEAT) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_Wheat_1_2_nutrition.png
+Catering - Platters,Club Sandwich (Sourdough) (1/2),CLUB SANDWICH (SOURDOUGH) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_Sourdough_1_2_nutrition.png
+Catering - Platters,Club Sandwich (White) (1/2),CLUB SANDWICH (WHITE) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_White_1_2_nutrition.png
+Catering - Platters,Turkey (Rye) (1/2),TURKEY (RYE) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Rye_1_2_nutrition.png
+Catering - Platters,Turkey (Sourdough) (1/2),TURKEY (SOURDOUGH) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Sourdough_1_2_nutrition.png
+Catering - Platters,Turkey (White) (1/2),TURKEY (WHITE) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_White_1_2_nutrition.png
+Catering - Platters,Turkey (Wheat) (1/2),TURKEY (WHEAT) (1/2 SANDWICH),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Wheat_1_2_nutrition.png
+Catering - Platters,Turkey Wrap (1/2),TURKEY WRAP (1/2 WRAP),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Wrap_1_2_nutrition.png
+Catering - Platters,Veggie Wrap (1/2),VEGGIE WRAP (1/2 WRAP),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Veggie_Wrap_1_2_nutrition.png
+Catering - Platters,VEGETARIAN BREAKFAST BURRITOS (1/2),BREAKFAST BURRITO (VEGETARIAN) (1/2 BURRITO),VARIANT_MISMATCH,Calories: INPUT=554 | UAT=550 || Calories from Fat: INPUT=261.5 | UAT=260 || Trans Fat (g): INPUT=0.06 | UAT=9 || Cholest. (mg): INPUT=219 | UAT=220 || Sodium (mg): INPUT=628 | UAT=630 || Dietary Fiber (g): INPUT=6.3 | UAT=6 || Sugar (g): INPUT=0.7 | UAT=1 || Protein (g): INPUT=21.42 | UAT=21,./output/nutrition-info/screenshots/nutrition/VEGETARIAN_BREAKFAST_BURRITOS_1_2_nutrition.png
+Catering - Platters,Breakfast Burrito (1/2),BREAKFAST BURRITO (VEGETARIAN) (1/2 BURRITO),VARIANT_MISMATCH,Calories: INPUT=600 | UAT=550 || Calories from Fat: INPUT=290 | UAT=260 || Total Fat (g): INPUT=32 | UAT=29 || Sat Fat (g): INPUT=13 | UAT=12 || Trans Fat (g): INPUT=0 | UAT=9 || Cholest. (mg): INPUT=225 | UAT=220 || Sodium (mg): INPUT=770 | UAT=630 || Protein (g): INPUT=24 | UAT=21,./output/nutrition-info/screenshots/nutrition/Breakfast_Burrito_1_2_nutrition.png
+Catering - Platters,Blueberry Muffins (1 Mini),BLUEBERRY MUFFINS (1 MINI MUFFIN),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Blueberry_Muffins_1_Mini_nutrition.png
+Catering - Platters,Berry Parfait Cup,BERRY PARFAIT CUP,MATCH,,./output/nutrition-info/screenshots/nutrition/Berry_Parfait_Cup_nutrition.png
+Catering - Platters,Fresh Fruit Bowl (1/2 Cup),FRESH FRUIT BOWL (1/2 CUP OF FRUIT),VARIANT_MISMATCH,Protein (g): INPUT=1 | UAT=0,./output/nutrition-info/screenshots/nutrition/Fresh_Fruit_Bowl_1_2_Cup_nutrition.png
+Catering - Platters,Very Berry (Small),VERY BERRY (SMALL),MATCH,,./output/nutrition-info/screenshots/nutrition/Very_Berry_Small_nutrition.png
+Catering - Platters,Very Berry (Large),VERY BERRY (LARGE),MATCH,,./output/nutrition-info/screenshots/nutrition/Very_Berry_Large_nutrition.png
+Catering - Platters,Greek Salad (Small),GREEK SALAD (SMALL),MATCH,,./output/nutrition-info/screenshots/nutrition/Greek_Salad_Small_nutrition.png
+Catering - Platters,Greek Salad (Large),GREEK SALAD (LARGE),MATCH,,./output/nutrition-info/screenshots/nutrition/Greek_Salad_Large_nutrition.png
+Catering - Platters,Chicken Caesar (Small),CHICKEN CAESAR (SMALL),MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Caesar_Small_nutrition.png
+Catering - Platters,Chicken Caesar (Large),CHICKEN CAESAR (LARGE),MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Caesar_Large_nutrition.png
+Catering - Platters,Add Chicken (Small),,NOT_FOUND,,
+Catering - Platters,Add Chicken (Large),ADD CHICKEN (LARGE),MISMATCH,Calories: INPUT=1960 | UAT=1120 || Calories from Fat: INPUT=380 | UAT=220 || Total Fat (g): INPUT=43 | UAT=24 || Sat Fat (g): INPUT=12 | UAT=7 || Sodium (mg): INPUT=880 | UAT=500 || Protein (g): INPUT=369 | UAT=211,./output/nutrition-info/screenshots/nutrition/Add_Chicken_Large_nutrition.png
+Catering - Beverages,Coffee (1 Cup),COFFEE (1 CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Coffee_1_Cup_nutrition.png
+Catering - Beverages,Cocoa Cola (12 fl oz),COCOA COLA® (12 FL OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Cocoa_Cola_12_fl_oz_nutrition.png
+Catering - Beverages,Diet Cocoa Cola (12 fl oz),COCOA COLA® (12 FL OZ),VARIANT_MISMATCH,Calories: INPUT=0 | UAT=140 || Sodium (mg): INPUT=40 | UAT=50 || Carbs (g): INPUT=0 | UAT=39 || Sugar (g): INPUT=0 | UAT=39,./output/nutrition-info/screenshots/nutrition/Diet_Cocoa_Cola_12_fl_oz_nutrition.png
+Catering - Beverages,Hot Cocoa (8 fl oz),HOT COCOA (8 FL OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Hot_Cocoa_8_fl_oz_nutrition.png
+Catering - Beverages,Orange Juice (8 fl oz),ORANGE JUICE (8 FL OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Orange_Juice_8_fl_oz_nutrition.png
+Catering - Beverages,Sprite (12 fl oz),SPRITE® (12 FL OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Sprite_12_fl_oz_nutrition.png
+Healthy Side Up,Spicy Vegan Bowl,,NOT_FOUND,,
+Healthy Side Up,Wellness Wrap (no sides),WELLNESS WRAP (NO SIDES),MATCH,,./output/nutrition-info/screenshots/nutrition/Wellness_Wrap_no_sides_nutrition.png
+Healthy Side Up,Avocado Toast,AVOCADO TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Avocado_Toast_nutrition.png
+Healthy Side Up,Feta Avocado Toast,AVOCADO TOAST,VARIANT_MISMATCH,Calories: INPUT=660 | UAT=500 || Calories from Fat: INPUT=350 | UAT=300 || Total Fat (g): INPUT=389 | UAT=33 || Sat Fat (g): INPUT=9 | UAT=3 || Cholest. (mg): INPUT=20 | UAT=0 || Sodium (mg): INPUT=750 | UAT=420 || Carbs (g): INPUT=68 | UAT=50 || Dietary Fiber (g): INPUT=18 | UAT=17 || Sugar (g): INPUT=22 | UAT=5 || Protein (g): INPUT=16 | UAT=10,./output/nutrition-info/screenshots/nutrition/Feta_Avocado_Toast_nutrition.png
+Healthy Side Up,Add Two Poached Eggs,ADD TWO POACHED EGGS,MATCH,,./output/nutrition-info/screenshots/nutrition/Add_Two_Poached_Eggs_nutrition.png
+Healthy Side Up,Steel Cut Oats,STEEL CUT OATS,MATCH,,./output/nutrition-info/screenshots/nutrition/Steel_Cut_Oats_nutrition.png
+Healthy Side Up,Acai Bowl,ACAI BOWL,MATCH,,./output/nutrition-info/screenshots/nutrition/Acai_Bowl_nutrition.png
+Healthy Side Up,Smoke Salmon Avocado Toast,AVOCADO TOAST,VARIANT_MISMATCH,Calories: INPUT=620 | UAT=500 || Calories from Fat: INPUT=260 | UAT=300 || Total Fat (g): INPUT=29 | UAT=33 || Sat Fat (g): INPUT=6 | UAT=3 || Cholest. (mg): INPUT=60 | UAT=0 || Sodium (mg): INPUT=1960 | UAT=420 || Dietary Fiber (g): INPUT=10 | UAT=17 || Sugar (g): INPUT=4 | UAT=5 || Protein (g): INPUT=34 | UAT=10,./output/nutrition-info/screenshots/nutrition/Smoke_Salmon_Avocado_Toast_nutrition.png
+Healthy Side Up,Berry Yogurt Parfait,BERRY YOGURT PARFAIT,MATCH,,./output/nutrition-info/screenshots/nutrition/Berry_Yogurt_Parfait_nutrition.png
+South of the Border,Huevos Rancheros (no tortillas),HUEVOS RANCHEROS (NO TORTILLAS),MATCH,,./output/nutrition-info/screenshots/nutrition/Huevos_Rancheros_no_tortillas_nutrition.png
+South of the Border,Huevos Con Chorizo (no tortillas),HUEVOS CON CHORIZO (NO TORTILLAS),MATCH,,./output/nutrition-info/screenshots/nutrition/Huevos_Con_Chorizo_no_tortillas_nutrition.png
+South of the Border,Machaca (no tortillas),MACHACA (NO TORTILLAS),MATCH,,./output/nutrition-info/screenshots/nutrition/Machaca_no_tortillas_nutrition.png
+South of the Border,Chilaquiles Bowl Red Sauce & Shredded Chicken,CHILAQUILES BOWL RED SAUCE & SHREDDED CHICKEN,MISMATCH,Cholest. (mg): INPUT=58 | UAT=580,./output/nutrition-info/screenshots/nutrition/Chilaquiles_Bowl_Red_Sauce_and_Shredded_Chicken_nutrition.png
+South of the Border,Chilaquiles Bowl Red Sauce & Carne Asada,CHILAQUILES BOWL RED SAUCE & CARNE ASADA,MATCH,,./output/nutrition-info/screenshots/nutrition/Chilaquiles_Bowl_Red_Sauce_and_Carne_Asada_nutrition.png
+South of the Border,Chilaquiles Bowl Green Sauce & Shredded Chicken,CHILAQUILES BOWL GREEN SAUCE & SHREDDED CHICKEN,MATCH,,./output/nutrition-info/screenshots/nutrition/Chilaquiles_Bowl_Green_Sauce_and_Shredded_Chicken_nutrition.png
+South of the Border,Chilaquiles Bowl Green Sauce & Carne Asada,CHILAQUILES BOWL GREEN SAUCE & CARNE ASADA,MATCH,,./output/nutrition-info/screenshots/nutrition/Chilaquiles_Bowl_Green_Sauce_and_Carne_Asada_nutrition.png
+South of the Border,California Breakfast Burrito,CALIFORNIA BREAKFAST BURRITO,MATCH,,./output/nutrition-info/screenshots/nutrition/California_Breakfast_Burrito_nutrition.png
+South of the Border,Fiesta Burrito,FIESTA BURRITO,MATCH,,./output/nutrition-info/screenshots/nutrition/Fiesta_Burrito_nutrition.png
+South of the Border,Baja Breakfast Tacos,BAJA BREAKFAST TACOS,MATCH,,./output/nutrition-info/screenshots/nutrition/Baja_Breakfast_Tacos_nutrition.png
+Two Eggs,Two Eggs Plus - Scrambled or Fried,TWO EGGS PLUS - SCRAMBLED OR FRIED,MATCH,,./output/nutrition-info/screenshots/nutrition/Two_Eggs_Plus_Scrambled_or_Fried_nutrition.png
+Two Eggs,Two Eggs Plus - Boiled or Poached,TWO EGGS PLUS - BOILED OR POACHED,MATCH,,./output/nutrition-info/screenshots/nutrition/Two_Eggs_Plus_Boiled_or_Poached_nutrition.png
+Two Eggs,Two Eggs Plus...,TWO EGGS PLUS - SCRAMBLED OR FRIED,VARIANT_MISMATCH,Calories: INPUT=143 | UAT=170 || Calories from Fat: INPUT=86 | UAT=110 || Total Fat (g): INPUT=10 | UAT=12 || Sat Fat (g): INPUT=4 | UAT=5 || Trans Fat (g): INPUT=0.04 | UAT=0 || Cholest. (mg): INPUT=372 | UAT=370 || Sodium (mg): INPUT=142 | UAT=140 || Carbs (g): INPUT=0.7 | UAT=1 || Sugar (g): INPUT=0.4 | UAT=0,./output/nutrition-info/screenshots/nutrition/Two_Eggs_Plus_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Bacon,AMERICAN BREAKFAST - SCRAMBLED/FRIED + BACON,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Bacon_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Bacon,AMERICAN BREAKFAST - BOILED/POACHED + BACON,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Bacon_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Applewood Bacon,AMERICAN BREAKFAST - SCRAMBLED/FRIED + BACON,VARIANT_MISMATCH,Calories from Fat: INPUT=190 | UAT=180 || Total Fat (g): INPUT=21 | UAT=20,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Applewood_Bacon_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Applewood Bacon,AMERICAN BREAKFAST - BOILED/POACHED + BACON,VARIANT_MISMATCH,Calories from Fat: INPUT=170 | UAT=160 || Total Fat (g): INPUT=19 | UAT=18,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Applewood_Bacon_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Sausage Link,AMERICAN BREAKFAST - SCRAMBLED/FRIED + SAUSAGE LINK,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Sausage_Link_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Sausage Link,AMERICAN BREAKFAST - BOILED/POACHED + SAUSAGE LINK,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Sausage_Link_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Sausage Patty,AMERICAN BREAKFAST - SCRAMBLED/FRIED + SAUSAGE PATTY,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Sausage_Patty_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Sausage Patty,AMERICAN BREAKFAST - BOILED/POACHED + SAUSAGE PATTY,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Sausage_Patty_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Smoked Ham,AMERICAN BREAKFAST - SCRAMBLED/FRIED + SMOKED HAM,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Smoked_Ham_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Smoked Ham,AMERICAN BREAKFAST - BOILED/POACHED + SMOKED HAM,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Smoked_Ham_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Canadian Bacon,AMERICAN BREAKFAST - SCRAMBLED/FRIED + BACON,VARIANT_MISMATCH,Calories: INPUT=280 | UAT=260 || Calories from Fat: INPUT=160 | UAT=180 || Total Fat (g): INPUT=18 | UAT=20 || Cholest. (mg): INPUT=415 | UAT=385 || Sodium (mg): INPUT=1040 | UAT=340 || Protein (g): INPUT=28 | UAT=16,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Canadian_Bacon_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Canadian Bacon,AMERICAN BREAKFAST - BOILED/POACHED + BACON,VARIANT_MISMATCH,Calories: INPUT=250 | UAT=230 || Calories from Fat: INPUT=140 | UAT=160 || Total Fat (g): INPUT=16 | UAT=18 || Cholest. (mg): INPUT=415 | UAT=385 || Sodium (mg): INPUT=1040 | UAT=340 || Protein (g): INPUT=28 | UAT=16,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Canadian_Bacon_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Beef Patty,AMERICAN BREAKFAST - SCRAMBLED/FRIED + BEEF PATTY,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Beef_Patty_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Beef Patty,AMERICAN BREAKFAST - BOILED/POACHED + BEEF PATTY,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Beef_Patty_nutrition.png
+Two Eggs,American Breakfast - Scrambled/Fried + Corned Beef,AMERICAN BREAKFAST - SCRAMBLED/FRIED + CORNED BEEF,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Scrambled_Fried_Corned_Beef_nutrition.png
+Two Eggs,American Breakfast - Boiled/Poached + Corned Beef,AMERICAN BREAKFAST - BOILED/POACHED + CORNED BEEF,MATCH,,./output/nutrition-info/screenshots/nutrition/American_Breakfast_Boiled_Poached_Corned_Beef_nutrition.png
+Two Eggs,Ham Scramble,HAM SCRAMBLE,MATCH,,./output/nutrition-info/screenshots/nutrition/Ham_Scramble_nutrition.png
+Two Eggs,Chicken Fried Steak & Eggs - Scrambled/Fried,CHICKEN FRIED STEAK & EGGS - SCRAMBLED/FRIED,MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Fried_Steak_and_Eggs_Scrambled_Fried_nutrition.png
+Two Eggs,Chicken Fried Steak & Eggs - Boiled/Poached,CHICKEN FRIED STEAK & EGGS - BOILED/POACHED,MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Fried_Steak_and_Eggs_Boiled_Poached_nutrition.png
+Two Eggs,New York Steak & Eggs - Scrambled/Fried,NEW YORK STEAK & EGGS - SCRAMBLED/FRIED,MATCH,,./output/nutrition-info/screenshots/nutrition/New_York_Steak_and_Eggs_Scrambled_Fried_nutrition.png
+Two Eggs,New York Steak & Eggs - Boiled/Poached,NEW YORK STEAK & EGGS - BOILED/POACHED,MATCH,,./output/nutrition-info/screenshots/nutrition/New_York_Steak_and_Eggs_Boiled_Poached_nutrition.png
+Breakfast Craves,Betty's Southern Biscuits & Gravy,BETTY'S SOUTHERN BISCUITS & GRAVY,MATCH,,./output/nutrition-info/screenshots/nutrition/Bettys_Southern_Biscuits_and_Gravy_nutrition.png
+Breakfast Craves,Betty's Southern Biscuits & Gravy (w/ Bacon),BETTY'S SOUTHERN BISCUITS & GRAVY,VARIANT_MISMATCH,Calories: INPUT=680 | UAT=620 || Calories from Fat: INPUT=270 | UAT=230 || Total Fat (g): INPUT=30 | UAT=25 || Sat Fat (g): INPUT=14 | UAT=12 || Cholest. (mg): INPUT=30 | UAT=20 || Sodium (mg): INPUT=2110 | UAT=1980 || Carbs (g): INPUT=85 | UAT=86 || Protein (g): INPUT=18 | UAT=16,./output/nutrition-info/screenshots/nutrition/Bettys_Southern_Biscuits_and_Gravy_w_Bacon_nutrition.png
+Breakfast Craves,Betty's Southern Biscuits & Gravy (w/ Sausage Links),BETTY'S SOUTHERN BISCUITS & GRAVY,VARIANT_MISMATCH,Calories: INPUT=980 | UAT=620 || Calories from Fat: INPUT=530 | UAT=230 || Total Fat (g): INPUT=59 | UAT=25 || Sat Fat (g): INPUT=24 | UAT=12 || Cholest. (mg): INPUT=80 | UAT=20 || Sodium (mg): INPUT=2760 | UAT=1980 || Carbs (g): INPUT=85 | UAT=86 || Protein (g): INPUT=28 | UAT=16,./output/nutrition-info/screenshots/nutrition/Bettys_Southern_Biscuits_and_Gravy_w_Sausage_Links_nutrition.png
+Breakfast Craves,Betty's Southern Biscuits & Gravy (w/ Sausage Patties),BETTY'S SOUTHERN BISCUITS & GRAVY,VARIANT_MISMATCH,Calories: INPUT=1080 | UAT=620 || Calories from Fat: INPUT=620 | UAT=230 || Total Fat (g): INPUT=69 | UAT=25 || Sat Fat (g): INPUT=28 | UAT=12 || Cholest. (mg): INPUT=110 | UAT=20 || Sodium (mg): INPUT=2740 | UAT=1980 || Carbs (g): INPUT=85 | UAT=86 || Protein (g): INPUT=34 | UAT=16,./output/nutrition-info/screenshots/nutrition/Bettys_Southern_Biscuits_and_Gravy_w_Sausage_Patties_nutrition.png
+Breakfast Craves,Betty's Southern Biscuits & Gravy (w/ Chicken Strips),BETTY'S SOUTHERN BISCUITS & GRAVY,VARIANT_MISMATCH,Calories: INPUT=780 | UAT=620 || Calories from Fat: INPUT=300 | UAT=230 || Total Fat (g): INPUT=32 | UAT=25 || Sat Fat (g): INPUT=13 | UAT=12 || Cholest. (mg): INPUT=50 | UAT=20 || Sodium (mg): INPUT=2290 | UAT=1980 || Carbs (g): INPUT=98 | UAT=86 || Protein (g): INPUT=28 | UAT=16,./output/nutrition-info/screenshots/nutrition/Bettys_Southern_Biscuits_and_Gravy_w_Chicken_Strips_nutrition.png
+Breakfast Craves,Monte Cristo,MONTE CRISTO,MATCH,,./output/nutrition-info/screenshots/nutrition/Monte_Cristo_nutrition.png
+Breakfast Craves,Sun-Up Breakfast Sandwich,SUN-UP BREAKFAST SANDWICH,MATCH,,./output/nutrition-info/screenshots/nutrition/Sun_Up_Breakfast_Sandwich_nutrition.png
+Breakfast Craves,Egg Whites (2) - Substitution,EGG WHITES (2) - SUBSTITUTION,MATCH,,./output/nutrition-info/screenshots/nutrition/Egg_Whites_2_Substitution_nutrition.png
+Omelet Obsession,The Mom,THE MOM,MATCH,,./output/nutrition-info/screenshots/nutrition/The_Mom_nutrition.png
+Omelet Obsession,Greek,GREEK,MATCH,,./output/nutrition-info/screenshots/nutrition/Greek_nutrition.png
+Omelet Obsession,No Name,NO NAME,MATCH,,./output/nutrition-info/screenshots/nutrition/No_Name_nutrition.png
+Omelet Obsession,Californian,CALIFORNIAN,MATCH,,./output/nutrition-info/screenshots/nutrition/Californian_nutrition.png
+,SMOKED SALMON BENEDICT,,NOT_FOUND,,
+Omelet Obsession,The Rancher,THE RANCHER,MATCH,,./output/nutrition-info/screenshots/nutrition/The_Rancher_nutrition.png
+Omelet Obsession,Mile High,MILE HIGH,MATCH,,./output/nutrition-info/screenshots/nutrition/Mile_High_nutrition.png
+Omelet Obsession,El Fuego,EL FUEGO,MATCH,,./output/nutrition-info/screenshots/nutrition/El_Fuego_nutrition.png
+Create Your Own - Omelet,4 Egg Omelet,4 EGG OMELET,MATCH,,./output/nutrition-info/screenshots/nutrition/4_Egg_Omelet_nutrition.png
+Create Your Own - Omelet,4 Egg White Omelet,4 EGG OMELET,VARIANT_MISMATCH,Calories: INPUT=130 | UAT=350 || Calories from Fat: INPUT=60 | UAT=230 || Total Fat (g): INPUT=7 | UAT=26 || Sat Fat (g): INPUT=0 | UAT=12 || Cholest. (mg): INPUT=0 | UAT=745 || Sodium (mg): INPUT=215 | UAT=280 || Sugar (g): INPUT=0 | UAT=1 || Protein (g): INPUT=14 | UAT=25,./output/nutrition-info/screenshots/nutrition/4_Egg_White_Omelet_nutrition.png
+Create Your Own - Omelet,Avocado (1 oz),AVOCADO (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Avocado_1_oz_nutrition.png
+Create Your Own - Omelet,Bell Peppers (1 oz),BELL PEPPERS (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Bell_Peppers_1_oz_nutrition.png
+Create Your Own - Omelet,Kalamata Olives (1 oz),KALAMATA OLIVES (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Kalamata_Olives_1_oz_nutrition.png
+Create Your Own - Omelet,Tomatoes (1 oz),TOMATOES (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Tomatoes_1_oz_nutrition.png
+Create Your Own - Omelet,Onions (1 oz),ONIONS (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Onions_1_oz_nutrition.png
+Create Your Own - Omelet,Green Onions (1 oz),ONIONS (1 OZ),VARIANT_MISMATCH,Calories: INPUT=5 | UAT=10 || Dietary Fiber (g): INPUT=1 | UAT=0 || Protein (g): INPUT=1 | UAT=0,./output/nutrition-info/screenshots/nutrition/Green_Onions_1_oz_nutrition.png
+Create Your Own - Omelet,Jalapeños (1 oz),JALAPEÑOS (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Jalapen_os_1_oz_nutrition.png
+Create Your Own - Omelet,Potatoes (1 oz),POTATOES (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Potatoes_1_oz_nutrition.png
+Create Your Own - Omelet,Spinach (1 oz),SPINACH (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Spinach_1_oz_nutrition.png
+Create Your Own - Omelet,Mushrooms (1 oz),MUSHROOMS (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Mushrooms_1_oz_nutrition.png
+Create Your Own - Omelet,Bacon (1 oz),CANADIAN BACON (1 OZ),VARIANT_MISMATCH,"Calories: INPUT=100 | UAT=35 || Calories from Fat: INPUT=80 | UAT=20 || Total Fat (g): INPUT=9 | UAT=2 || Sat Fat (g): INPUT=3,5 | UAT=1 || Cholest. (mg): INPUT=20 | UAT=15 || Sodium (mg): INPUT=230 | UAT=300 || Protein (g): INPUT=4 | UAT=5",./output/nutrition-info/screenshots/nutrition/Bacon_1_oz_nutrition.png
+Create Your Own - Omelet,Sausage (1 oz),TURKEY SAUSAGE (1 OZ),VARIANT_MISMATCH,"Calories: INPUT=100 | UAT=90 || Calories from Fat: INPUT=70 | UAT=60 || Total Fat (g): INPUT=8 | UAT=6 || Sat Fat (g): INPUT=3,5 | UAT=2 || Cholest. (mg): INPUT=25 | UAT=40 || Sodium (mg): INPUT=220 | UAT=270 || Protein (g): INPUT=6 | UAT=7",./output/nutrition-info/screenshots/nutrition/Sausage_1_oz_nutrition.png
+Create Your Own - Omelet,Canadian Bacon (1 oz),CANADIAN BACON (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Canadian_Bacon_1_oz_nutrition.png
+Create Your Own - Omelet,Corned Beef Hash (1 oz),CORNED BEEF HASH (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Corned_Beef_Hash_1_oz_nutrition.png
+Create Your Own - Omelet,Chorizo (1 oz),CHORIZO (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Chorizo_1_oz_nutrition.png
+Create Your Own - Omelet,Ham (1 oz),HAM (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Ham_1_oz_nutrition.png
+Create Your Own - Omelet,Ground Beef (1 oz),GROUND BEEF (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Ground_Beef_1_oz_nutrition.png
+Create Your Own - Omelet,Sliced Turkey (1 oz),SLICED TURKEY (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Sliced_Turkey_1_oz_nutrition.png
+Create Your Own - Omelet,Turkey Bacon (1 oz),TURKEY BACON (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Bacon_1_oz_nutrition.png
+Create Your Own - Omelet,Turkey Sausage (1 oz),TURKEY SAUSAGE (1 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Sausage_1_oz_nutrition.png
+Create Your Own - Omelet,Hollandaise Sauce (2 oz),HOLLANDAISE SAUCE (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Hollandaise_Sauce_2_oz_nutrition.png
+Create Your Own - Omelet,Sour Cream (2 oz),SOUR CREAM (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Sour_Cream_2_oz_nutrition.png
+Create Your Own - Omelet,Salsa Fresca (2 oz),SALSA FRESCA (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Salsa_Fresca_2_oz_nutrition.png
+Create Your Own - Omelet,Guacamole (2 oz),GUACAMOLE (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Guacamole_2_oz_nutrition.png
+Create Your Own - Omelet,American Cheese (1.5 oz),AMERICAN CHEESE (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/American_Cheese_1_5_oz_nutrition.png
+Create Your Own - Omelet,Swiss Cheese (1.5 oz),SWISS CHEESE (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Swiss_Cheese_1_5_oz_nutrition.png
+Create Your Own - Omelet,Cheddar Cheese (1.5 oz),CHEDDAR CHEESE (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Cheddar_Cheese_1_5_oz_nutrition.png
+Create Your Own - Omelet,Jack Cheese (1.5 oz),JACK CHEESE (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Jack_Cheese_1_5_oz_nutrition.png
+Create Your Own - Omelet,Pepper Jack (1.5 oz),PEPPER JACK (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Pepper_Jack_1_5_oz_nutrition.png
+Create Your Own - Omelet,Provolone Cheese (1.5 oz),PROVOLONE CHEESE (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Provolone_Cheese_1_5_oz_nutrition.png
+Create Your Own - Omelet,Feta Cheese (1.5 oz),FETA CHEESE (1.5 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Feta_Cheese_1_5_oz_nutrition.png
+Benedicts,Choose Two,CHOOSE TWO (LOW RANGE),VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Choose_Two_nutrition.png
+Benedicts,Choose Two,CHOOSE TWO (LOW RANGE),VARIANT_MISMATCH,"Calories: INPUT=800 | UAT=610 || Calories from Fat: INPUT=420 | UAT=340 || Total Fat (g): INPUT=47 | UAT=38 || Sat Fat (g): INPUT=20 | UAT=18 || Trans Fat (g): INPUT=0,5 | UAT=1 || Cholest. (mg): INPUT=485 | UAT=480 || Sodium (mg): INPUT=1140 | UAT=1200 || Carbs (g): INPUT=54 | UAT=34 || Dietary Fiber (g): INPUT=5 | UAT=1 || Sugar (g): INPUT=16 | UAT=4 || Protein (g): INPUT=42 | UAT=32",./output/nutrition-info/screenshots/nutrition/Choose_Two_nutrition.png
+Benedicts,Eggs Benedict,EGGS BENEDICT,MATCH,,./output/nutrition-info/screenshots/nutrition/Eggs_Benedict_nutrition.png
+Benedicts,Caprese Benedict,CAPRESE BENEDICT,MATCH,,./output/nutrition-info/screenshots/nutrition/Caprese_Benedict_nutrition.png
+Benedicts,Golden State Benedict,GOLDEN STATE BENEDICT,MATCH,,./output/nutrition-info/screenshots/nutrition/Golden_State_Benedict_nutrition.png
+Benedicts,Border Benedict,BORDER BENEDICT,MATCH,,./output/nutrition-info/screenshots/nutrition/Border_Benedict_nutrition.png
+Benedicts,Sope Benedict,SOPE BENEDICT,MATCH,,./output/nutrition-info/screenshots/nutrition/Sope_Benedict_nutrition.png
+Benedicts,Chicken & Waffle Benedict,CHICKEN & WAFFLE BENEDICT,MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_and_Waffle_Benedict_nutrition.png
+Skillets,Ranchero Skillet,RANCHERO SKILLET,MATCH,,./output/nutrition-info/screenshots/nutrition/Ranchero_Skillet_nutrition.png
+Skillets,Hash Skillet,HASH SKILLET,MATCH,,./output/nutrition-info/screenshots/nutrition/Hash_Skillet_nutrition.png
+Skillets,Country Skillet,COUNTRY SKILLET,MATCH,,./output/nutrition-info/screenshots/nutrition/Country_Skillet_nutrition.png
+Pancakes & Waffles,Buttermilk Pancakes (Short Stack),BUTTERMILK PANCAKES (SHORT STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Buttermilk_Pancakes_Short_Stack_nutrition.png
+Pancakes & Waffles,Buttermilk Pancakes (Full Stack),BUTTERMILK PANCAKES (FULL STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Buttermilk_Pancakes_Full_Stack_nutrition.png
+Pancakes & Waffles,Blueberry Pancakes (Short Stack),BLUEBERRY PANCAKES (SHORT STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Blueberry_Pancakes_Short_Stack_nutrition.png
+Pancakes & Waffles,Blueberry Pancakes (Full Stack),BLUEBERRY PANCAKES (FULL STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Blueberry_Pancakes_Full_Stack_nutrition.png
+Pancakes & Waffles,Banana Pancakes (Short Stack),,NOT_FOUND,,
+Pancakes & Waffles,Banana Pancakes (Full Stack),,NOT_FOUND,,
+Pancakes & Waffles,Cinnacakes (Short Stack),CINNACAKES (SHORT STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Cinnacakes_Short_Stack_nutrition.png
+Pancakes & Waffles,Cinnacakes (Full Stack),CINNACAKES (FULL STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Cinnacakes_Full_Stack_nutrition.png
+Pancakes & Waffles,Chocolate Chip Pancakes (Short Stack),CHOCOLATE CHIP PANCAKES (SHORT STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Chocolate_Chip_Pancakes_Short_Stack_nutrition.png
+Pancakes & Waffles,Chocolate Chip Pancakes (Full Stack),CHOCOLATE CHIP PANCAKES (FULL STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Chocolate_Chip_Pancakes_Full_Stack_nutrition.png
+Pancakes & Waffles,Gluten Free Pancakes (Short Stack),GLUTEN FREE PANCAKES (SHORT STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Gluten_Free_Pancakes_Short_Stack_nutrition.png
+Pancakes & Waffles,Gluten Free Pancakes (Full Stack),GLUTEN FREE PANCAKES (FULL STACK),MATCH,,./output/nutrition-info/screenshots/nutrition/Gluten_Free_Pancakes_Full_Stack_nutrition.png
+Pancakes & Waffles,Belgian Waffles,BELGIAN WAFFLES,MATCH,,./output/nutrition-info/screenshots/nutrition/Belgian_Waffles_nutrition.png
+Pancakes & Waffles,Banana Belgian Waffles,BELGIAN WAFFLES,VARIANT_MISMATCH,Calories: INPUT=480 | UAT=390 || Calories from Fat: INPUT=170 | UAT=240 || Total Fat (g): INPUT=19 | UAT=27 || Sat Fat (g): INPUT=9 | UAT=16 || Trans Fat (g): INPUT=0 | UAT=1 || Cholest. (mg): INPUT=110 | UAT=120 || Carbs (g): INPUT=72 | UAT=33 || Dietary Fiber (g): INPUT=4 | UAT=1 || Sugar (g): INPUT=25 | UAT=3 || Protein (g): INPUT=6 | UAT=5,./output/nutrition-info/screenshots/nutrition/Banana_Belgian_Waffles_nutrition.png
+Pancakes & Waffles,Strawberry Belgian Waffles,BELGIAN WAFFLES,VARIANT_MISMATCH,Calories: INPUT=500 | UAT=390 || Calories from Fat: INPUT=160 | UAT=240 || Total Fat (g): INPUT=18 | UAT=27 || Sat Fat (g): INPUT=9 | UAT=16 || Trans Fat (g): INPUT=0 | UAT=1 || Cholest. (mg): INPUT=110 | UAT=120 || Sodium (mg): INPUT=460 | UAT=430 || Carbs (g): INPUT=78 | UAT=33 || Dietary Fiber (g): INPUT=4 | UAT=1 || Sugar (g): INPUT=43 | UAT=3,./output/nutrition-info/screenshots/nutrition/Strawberry_Belgian_Waffles_nutrition.png
+Pancakes & Waffles,Chicken & Waffles,CHICKEN & WAFFLES,MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_and_Waffles_nutrition.png
+Pancakes & Waffles,Waffle Sandwich,WAFFLE SANDWICH,MATCH,,./output/nutrition-info/screenshots/nutrition/Waffle_Sandwich_nutrition.png
+Pancakes & Waffles,Sweet Trio,SWEET TRIO,MATCH,,./output/nutrition-info/screenshots/nutrition/Sweet_Trio_nutrition.png
+French Toast & Crepes,Tiki Toast,TIKI TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Tiki_Toast_nutrition.png
+French Toast & Crepes,Crunchy French Toast,CRUNCHY FRENCH TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Crunchy_French_Toast_nutrition.png
+French Toast & Crepes,Stuffed French Toast,STUFFED FRENCH TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Stuffed_French_Toast_nutrition.png
+French Toast & Crepes,Classic French Toast,CRUNCHY FRENCH TOAST,VARIANT_MISMATCH,Calories: INPUT=960 | UAT=1790 || Calories from Fat: INPUT=330 | UAT=580 || Total Fat (g): INPUT=37 | UAT=64 || Sat Fat (g): INPUT=19 | UAT=23 || Cholest. (mg): INPUT=650 | UAT=680 || Sodium (mg): INPUT=900 | UAT=1460 || Carbs (g): INPUT=118 | UAT=252 || Dietary Fiber (g): INPUT=7 | UAT=15 || Sugar (g): INPUT=26 | UAT=84 || Protein (g): INPUT=33 | UAT=47,./output/nutrition-info/screenshots/nutrition/Classic_French_Toast_nutrition.png
+French Toast & Crepes,Banana Nutella Crepes,BANANA NUTELLA CREPES,MATCH,,./output/nutrition-info/screenshots/nutrition/Banana_Nutella_Crepes_nutrition.png
+French Toast & Crepes,Strawberry Nutella Crepes,STRAWBERRY NUTELLA CREPES,MATCH,,./output/nutrition-info/screenshots/nutrition/Strawberry_Nutella_Crepes_nutrition.png
+French Toast & Crepes,Savory Crepes,SAVORY CREPES,MATCH,,./output/nutrition-info/screenshots/nutrition/Savory_Crepes_nutrition.png
+Create a Combo,Sausage Links (2),SAUSAGE LINKS (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Sausage_Links_2_nutrition.png
+Create a Combo,Sausage Patty (2),SAUSAGE PATTY (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Sausage_Patty_2_nutrition.png
+Create a Combo,Bacon (2),BACON (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Bacon_2_nutrition.png
+Create a Combo,Applewood Smoked Bacon (2),BACON (2),VARIANT_MISMATCH,Calories: INPUT=260 | UAT=60 || Calories from Fat: INPUT=54 | UAT=40 || Total Fat (g): INPUT=6 | UAT=5 || Protein (g): INPUT=2 | UAT=1,./output/nutrition-info/screenshots/nutrition/Applewood_Smoked_Bacon_2_nutrition.png
+Create a Combo,Scrambled or Fried Eggs (2),SCRAMBLED OR FRIED EGGS (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Scrambled_or_Fried_Eggs_2_nutrition.png
+Create a Combo,Poached or Boiled Eggs (2),POACHED OR BOILED EGGS (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Poached_or_Boiled_Eggs_2_nutrition.png
+Burgers,Old Reliable,OLD RELIABLE,MATCH,,./output/nutrition-info/screenshots/nutrition/Old_Reliable_nutrition.png
+Burgers,Add Avocado,ADD AVOCADO,MATCH,,./output/nutrition-info/screenshots/nutrition/Add_Avocado_nutrition.png
+Burgers,Add Applewood Bacon,ADD APPLEWOOD BACON,MATCH,,./output/nutrition-info/screenshots/nutrition/Add_Applewood_Bacon_nutrition.png
+Burgers,Good Morning Burger,GOOD MORNING BURGER,MATCH,,./output/nutrition-info/screenshots/nutrition/Good_Morning_Burger_nutrition.png
+Burgers,Wild West Burger,WILD WEST BURGER,MATCH,,./output/nutrition-info/screenshots/nutrition/Wild_West_Burger_nutrition.png
+Burgers,Sub Chicken Breast,SUB CHICKEN BREAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Sub_Chicken_Breast_nutrition.png
+Sandwiches,Club Sandwich (Rye),CLUB SANDWICH (RYE),MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_Rye_nutrition.png
+Sandwiches,Club Sandwich (Sourdough),CLUB SANDWICH (SOURDOUGH),MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_Sourdough_nutrition.png
+Sandwiches,Club Sandwich (White),CLUB SANDWICH (WHITE),MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_White_nutrition.png
+Sandwiches,Club Sandwich (Whole Wheat),CLUB SANDWICH (WHOLE WHEAT),MATCH,,./output/nutrition-info/screenshots/nutrition/Club_Sandwich_Whole_Wheat_nutrition.png
+Sandwiches,B.L.T. (Rye),B.L.T. (RYE),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Rye_nutrition.png
+Sandwiches,B.L.T. (Sourdough),B.L.T. (SOURDOUGH),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Sourdough_nutrition.png
+Sandwiches,B.L.T. (White),B.L.T. (WHITE),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_White_nutrition.png
+Sandwiches,B.L.T. (Whole Wheat),B.L.T. (WHOLE WHEAT),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Whole_Wheat_nutrition.png
+Sandwiches,Add Avocado,ADD AVOCADO,MATCH,,./output/nutrition-info/screenshots/nutrition/Add_Avocado_nutrition.png
+Sandwiches,Chicken Caesar Wrap ,,NOT_FOUND,,
+Sandwiches,Add Fried Eggs (2),ADD FRIED EGGS (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Add_Fried_Eggs_2_nutrition.png
+Sandwiches,Tuna Melt,TUNA MELT,MATCH,,./output/nutrition-info/screenshots/nutrition/Tuna_Melt_nutrition.png
+Sandwiches,Southern Chicken Wrap,SOUTHERN CHICKEN WRAP,MATCH,,./output/nutrition-info/screenshots/nutrition/Southern_Chicken_Wrap_nutrition.png
+Sandwiches,Buffalo Chicken Wrap,BUFFALO CHICKEN WRAP,MATCH,,./output/nutrition-info/screenshots/nutrition/Buffalo_Chicken_Wrap_nutrition.png
+Sandwiches,Crispy Chicken Sandwich,CRISPY CHICKEN SANDWICH,MATCH,,./output/nutrition-info/screenshots/nutrition/Crispy_Chicken_Sandwich_nutrition.png
+Fresh Soups & Salads,"Caesar Salad (Half, no dressing)","CAESAR SALAD (HALF, NO DRESSING)",MATCH,,./output/nutrition-info/screenshots/nutrition/Caesar_Salad_Half_no_dressing_nutrition.png
+Fresh Soups & Salads,Grilled Chicken Caesar Salad (incl. dressing),GRILLED CHICKEN CAESAR SALAD (INCL. DRESSING),MATCH,,./output/nutrition-info/screenshots/nutrition/Grilled_Chicken_Caesar_Salad_incl_dressing_nutrition.png
+Fresh Soups & Salads,Very Berry Salad (incl. raspberry vinaigrette),VERY BERRY SALAD (INCL. RASPBERRY VINAIGRETTE),MATCH,,./output/nutrition-info/screenshots/nutrition/Very_Berry_Salad_incl_raspberry_vinaigrette_nutrition.png
+Fresh Soups & Salads,Very Berry Salad Half (incl. raspberry vinaigrette),VERY BERRY SALAD (INCL. RASPBERRY VINAIGRETTE),VARIANT_MISMATCH,Calories: INPUT=530 | UAT=940 || Calories from Fat: INPUT=400 | UAT=680 || Total Fat (g): INPUT=44 | UAT=76 || Sat Fat (g): INPUT=10 | UAT=18 || Cholest. (mg): INPUT=30 | UAT=60 || Sodium (mg): INPUT=260 | UAT=420 || Carbs (g): INPUT=24 | UAT=42 || Dietary Fiber (g): INPUT=2 | UAT=5 || Sugar (g): INPUT=18 | UAT=30 || Protein (g): INPUT=14 | UAT=26,./output/nutrition-info/screenshots/nutrition/Very_Berry_Salad_Half_incl_raspberry_vinaigrette_nutrition.png
+Fresh Soups & Salads,House Salad (no dressing),HOUSE SALAD (NO DRESSING),MATCH,,./output/nutrition-info/screenshots/nutrition/House_Salad_no_dressing_nutrition.png
+Fresh Soups & Salads,Greek Salad (incl. balsamic vinaigrette),GREEK SALAD (INCL. BALSAMIC VINAIGRETTE),MATCH,,./output/nutrition-info/screenshots/nutrition/Greek_Salad_incl_balsamic_vinaigrette_nutrition.png
+Fresh Soups & Salads,Chicken Veggie Soup (Bowl),CHICKEN VEGGIE SOUP (BOWL),MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Veggie_Soup_Bowl_nutrition.png
+Fresh Soups & Salads,Chicken Veggie Soup (Cup),CHICKEN VEGGIE SOUP (CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Veggie_Soup_Cup_nutrition.png
+Fresh Soups & Salads,Tomato Basil Soup (Bowl),TOMATO BASIL SOUP (BOWL),MATCH,,./output/nutrition-info/screenshots/nutrition/Tomato_Basil_Soup_Bowl_nutrition.png
+Fresh Soups & Salads,Tomato Basil Soup (Cup),TOMATO BASIL SOUP (CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Tomato_Basil_Soup_Cup_nutrition.png
+Soup Salad Sandwich Combo,B.L.T. Half (Rye),B.L.T. HALF (RYE),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Half_Rye_nutrition.png
+Soup Salad Sandwich Combo,B.L.T. Half (Sourdough),B.L.T. HALF (SOURDOUGH),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Half_Sourdough_nutrition.png
+Soup Salad Sandwich Combo,B.L.T. Half (White),B.L.T. HALF (WHITE),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Half_White_nutrition.png
+Soup Salad Sandwich Combo,B.L.T. Half (Whole Wheat),B.L.T. HALF (WHOLE WHEAT),MATCH,,./output/nutrition-info/screenshots/nutrition/B_L_T_Half_Whole_Wheat_nutrition.png
+Soup Salad Sandwich Combo,Tuna Sandwich Half (Rye),TUNA SANDWICH HALF (RYE),MATCH,,./output/nutrition-info/screenshots/nutrition/Tuna_Sandwich_Half_Rye_nutrition.png
+Soup Salad Sandwich Combo,Tuna Sandwich Half (Sourdough),TUNA SANDWICH HALF (SOURDOUGH),MATCH,,./output/nutrition-info/screenshots/nutrition/Tuna_Sandwich_Half_Sourdough_nutrition.png
+Soup Salad Sandwich Combo,Tuna Sandwich Half (White),TUNA SANDWICH HALF (WHITE),MATCH,,./output/nutrition-info/screenshots/nutrition/Tuna_Sandwich_Half_White_nutrition.png
+Soup Salad Sandwich Combo,Tuna Sandwich Half (Whole Wheat),TUNA SANDWICH HALF (WHOLE WHEAT),MATCH,,./output/nutrition-info/screenshots/nutrition/Tuna_Sandwich_Half_Whole_Wheat_nutrition.png
+Soup Salad Sandwich Combo,Turkey Sandwich Half (Rye),TURKEY SANDWICH HALF (RYE),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Sandwich_Half_Rye_nutrition.png
+Soup Salad Sandwich Combo,Turkey Sandwich Half (Sourdough),TURKEY SANDWICH HALF (SOURDOUGH),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Sandwich_Half_Sourdough_nutrition.png
+Soup Salad Sandwich Combo,Turkey Sandwich Half (White),TURKEY SANDWICH HALF (WHITE),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Sandwich_Half_White_nutrition.png
+Soup Salad Sandwich Combo,Turkey Sandwich Half (Whole Wheat),TURKEY SANDWICH HALF (WHOLE WHEAT),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Sandwich_Half_Whole_Wheat_nutrition.png
+Soup Salad Sandwich Combo,Grilled Cheese Half (Rye),GRILLED CHEESE HALF (RYE),MATCH,,./output/nutrition-info/screenshots/nutrition/Grilled_Cheese_Half_Rye_nutrition.png
+Soup Salad Sandwich Combo,Grilled Cheese Half (Sourdough),GRILLED CHEESE HALF (SOURDOUGH),MATCH,,./output/nutrition-info/screenshots/nutrition/Grilled_Cheese_Half_Sourdough_nutrition.png
+Soup Salad Sandwich Combo,Grilled Cheese Half (White),GRILLED CHEESE HALF (WHITE),MATCH,,./output/nutrition-info/screenshots/nutrition/Grilled_Cheese_Half_White_nutrition.png
+Soup Salad Sandwich Combo,Grilled Cheese Half (Whole Wheat),GRILLED CHEESE HALF (WHOLE WHEAT),MATCH,,./output/nutrition-info/screenshots/nutrition/Grilled_Cheese_Half_Whole_Wheat_nutrition.png
+Soup Salad Sandwich Combo,"Caesar Salad (Half, no dressing)","CAESAR SALAD (HALF, NO DRESSING)",MATCH,,./output/nutrition-info/screenshots/nutrition/Caesar_Salad_Half_no_dressing_nutrition.png
+Soup Salad Sandwich Combo,Very Berry Salad Half (incl. raspberry vinaigrette),VERY BERRY SALAD HALF (INCL. RASPBERRY VINAIGRETTE),MATCH,,./output/nutrition-info/screenshots/nutrition/Very_Berry_Salad_Half_incl_raspberry_vinaigrette_nutrition.png
+Soup Salad Sandwich Combo,Chicken Veggie Soup (Cup),CHICKEN VEGGIE SOUP (CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Veggie_Soup_Cup_nutrition.png
+Soup Salad Sandwich Combo,Tomato Basil Soup (Cup),TOMATO BASIL SOUP (CUP),MATCH,,./output/nutrition-info/screenshots/nutrition/Tomato_Basil_Soup_Cup_nutrition.png
+Beverages,"Orange, Apple, or Grapefruit Juice (Glass)",,NOT_FOUND,,
+Beverages,Orange Juice (Half Carafe),,NOT_FOUND,,
+Beverages,Orange Juice (Carafe),,NOT_FOUND,,
+Beverages,Apple Juice (Glass),,NOT_FOUND,,
+Beverages,Apple Juice (Half Carafe),,NOT_FOUND,,
+Beverages,Apple Juice (Carafe),,NOT_FOUND,,
+Beverages,Grapefruit Juice (Glass),,NOT_FOUND,,
+Beverages,Grapefruit Juice (Half Carafe),,NOT_FOUND,,
+Beverages,Grapefruit Juice (Carafe),,NOT_FOUND,,
+Beverages,Lemonade (Glass),,NOT_FOUND,,
+Beverages,Lemonade (Half Carafe),,NOT_FOUND,,
+Beverages,Lemonade (Carafe),,NOT_FOUND,,
+Beverages,Pomegranate Juice (Glass),,NOT_FOUND,,
+Beverages,Pomegranate Juice (Half Carafe),,NOT_FOUND,,
+Beverages,Pomegranate Juice (Carafe),,NOT_FOUND,,
+Beverages,Cranberry Juice (Glass),,NOT_FOUND,,
+Beverages,Champagne Bottle,,NOT_FOUND,,
+Beverages,Champagne Glass (12 oz),,NOT_FOUND,,
+Beverages,Mimosa,,NOT_FOUND,,
+Beverages,Hibiscus Mimosa,,NOT_FOUND,,
+Beverages,Pomegranate Mimosa,,NOT_FOUND,,
+Beverages,Mimosa Flight,,NOT_FOUND,,
+Beverages,Heineken Beer,,NOT_FOUND,,
+Beverages,Bud Light Beer,,NOT_FOUND,,
+Beverages,Budweiser Beer,,NOT_FOUND,,
+Beverages,Corona Beer,,NOT_FOUND,,
+Beverages,Pacifico Beer,,NOT_FOUND,,
+Beverages,BYC Bloody Mary,,NOT_FOUND,,
+Beverages,Bloody Caesar,,NOT_FOUND,,
+Beverages,Bloody Maria,,NOT_FOUND,,
+Beverages,Red Snapper,,NOT_FOUND,,
+Beverages,Bloody Mary Flight,,NOT_FOUND,,
+Beverages,Hot Tea,,NOT_FOUND,,
+Beverages,Hot Cocoa,HOT COCOA (8 FL OZ),VARIANT_MISMATCH,Calories: INPUT=310 | UAT=240 || Calories from Fat: INPUT=100 | UAT=35 || Total Fat (g): INPUT=11 | UAT=4 || Sat Fat (g): INPUT=7 | UAT=3 || Cholest. (mg): INPUT=20 | UAT=0 || Sodium (mg): INPUT=170 | UAT=220 || Carbs (g): INPUT=48 | UAT=49 || Dietary Fiber (g): INPUT=1 | UAT=0 || Sugar (g): INPUT=42 | UAT=43 || Protein (g): INPUT=1 | UAT=0,./output/nutrition-info/screenshots/nutrition/Hot_Cocoa_nutrition.png
+Beverages,Milk 2%,,NOT_FOUND,,
+Beverages,Pepsi,,NOT_FOUND,,
+Beverages,Diet Pepsi,,NOT_FOUND,,
+Beverages,Dr. Pepper,,NOT_FOUND,,
+Beverages,Sierra Mist,,NOT_FOUND,,
+Beverages,Brisk Raspberry Iced Tea,,NOT_FOUND,,
+Beverages,Mountain Dew,,NOT_FOUND,,
+Beverages,Unsweetened Iced Tea,,NOT_FOUND,,
+Beverages,Arnold Palmer Iced Tea,,NOT_FOUND,,
+Beverages,Strawberry Banana Smoothie,,NOT_FOUND,,
+Beverages,Blueberry Banana Smoothie,,NOT_FOUND,,
+Coffee Bar,Coffee,COFFEE,MATCH,,./output/nutrition-info/screenshots/nutrition/Coffee_nutrition.png
+Coffee Bar,Cold Brew,COLD BREW,MATCH,,./output/nutrition-info/screenshots/nutrition/Cold_Brew_nutrition.png
+Coffee Bar,Espresso,ESPRESSO,MATCH,,./output/nutrition-info/screenshots/nutrition/Espresso_nutrition.png
+Coffee Bar,Espresso Shot,ESPRESSO,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Espresso_Shot_nutrition.png
+Coffee Bar,Cappuccino (Hot/Iced),CAPPUCCINO (HOT/ICED),MATCH,,./output/nutrition-info/screenshots/nutrition/Cappuccino_Hot_Iced_nutrition.png
+Coffee Bar,Caffe Latte (Hot/Iced),CAFFE LATTE (HOT/ICED),MATCH,,./output/nutrition-info/screenshots/nutrition/Caffe_Latte_Hot_Iced_nutrition.png
+Coffee Bar,Mocha Latte (Hot/Iced),MOCHA LATTE (HOT/ICED),MATCH,,./output/nutrition-info/screenshots/nutrition/Mocha_Latte_Hot_Iced_nutrition.png
+Coffee Bar,Messy Caramel Latte (Hot/Iced),MESSY CARAMEL LATTE (HOT/ICED),MATCH,,./output/nutrition-info/screenshots/nutrition/Messy_Caramel_Latte_Hot_Iced_nutrition.png
+Coffee Bar,Vanilla Syrup,VANILLA SYRUP,MATCH,,./output/nutrition-info/screenshots/nutrition/Vanilla_Syrup_nutrition.png
+Coffee Bar,Vanilla Syrup (Sugar Free),VANILLA SYRUP,VARIANT_MISMATCH,Calories: INPUT=0 | UAT=80 || Sodium (mg): INPUT=0 | UAT=45 || Carbs (g): INPUT=0 | UAT=20 || Sugar (g): INPUT=0 | UAT=20,./output/nutrition-info/screenshots/nutrition/Vanilla_Syrup_Sugar_Free_nutrition.png
+Coffee Bar,Caramel Syrup,CARAMEL SYRUP,MATCH,,./output/nutrition-info/screenshots/nutrition/Caramel_Syrup_nutrition.png
+Coffee Bar,Caramel Syrup (Sugar Free),CARAMEL SYRUP,VARIANT_MISMATCH,Calories: INPUT=0 | UAT=80 || Sodium (mg): INPUT=0 | UAT=15 || Carbs (g): INPUT=1 | UAT=20 || Sugar (g): INPUT=0 | UAT=19,./output/nutrition-info/screenshots/nutrition/Caramel_Syrup_Sugar_Free_nutrition.png
+Coffee Bar,Hazelnut Syrup,HAZELNUT SYRUP,MATCH,,./output/nutrition-info/screenshots/nutrition/Hazelnut_Syrup_nutrition.png
+Coffee Bar,Hazelnut Syrup (Sugar Free),HAZELNUT SYRUP,VARIANT_MISMATCH,Calories: INPUT=0 | UAT=80 || Carbs (g): INPUT=0 | UAT=19 || Sugar (g): INPUT=0 | UAT=19,./output/nutrition-info/screenshots/nutrition/Hazelnut_Syrup_Sugar_Free_nutrition.png
+Coffee Bar,Matcha Latte,MATCHA LATTE,MATCH,,./output/nutrition-info/screenshots/nutrition/Matcha_Latte_nutrition.png
+Coffee Bar,Chai Latte,CHAI LATTE,MATCH,,./output/nutrition-info/screenshots/nutrition/Chai_Latte_nutrition.png
+Sides,Just Eggs - Scrambled or Fried,JUST EGGS - SCRAMBLED OR FRIED,MATCH,,./output/nutrition-info/screenshots/nutrition/Just_Eggs_Scrambled_or_Fried_nutrition.png
+Sides,Just Eggs - Boiled or Poached,JUST EGGS - BOILED OR POACHED,MATCH,,./output/nutrition-info/screenshots/nutrition/Just_Eggs_Boiled_or_Poached_nutrition.png
+Sides,Egg Whites (2),EGG WHITES (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Egg_Whites_2_nutrition.png
+Sides,Bacon (3),BACON (3),MATCH,,./output/nutrition-info/screenshots/nutrition/Bacon_3_nutrition.png
+Sides,Turkey Bacon (3),BACON (3),VARIANT_MISMATCH,Calories: INPUT=150 | UAT=90 || Calories from Fat: INPUT=80 | UAT=70 || Total Fat (g): INPUT=9 | UAT=8 || Cholest. (mg): INPUT=75 | UAT=15 || Sodium (mg): INPUT=720 | UAT=200 || Protein (g): INPUT=15 | UAT=3,./output/nutrition-info/screenshots/nutrition/Turkey_Bacon_3_nutrition.png
+Sides,Applewood Smoked Bacon (3),BACON (3),VARIANT_MISMATCH,Calories from Fat: INPUT=80 | UAT=70 || Total Fat (g): INPUT=9 | UAT=8,./output/nutrition-info/screenshots/nutrition/Applewood_Smoked_Bacon_3_nutrition.png
+Sides,Canadian Bacon,CANADIAN BACON,MATCH,,./output/nutrition-info/screenshots/nutrition/Canadian_Bacon_nutrition.png
+Sides,Pork Sausage Link (3),PORK SAUSAGE LINK (3),MATCH,,./output/nutrition-info/screenshots/nutrition/Pork_Sausage_Link_3_nutrition.png
+Sides,Pork Sausage Patty (2),PORK SAUSAGE PATTY (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Pork_Sausage_Patty_2_nutrition.png
+Sides,Turkey Patty Sausage (2),TURKEY PATTY SAUSAGE (2),MATCH,,./output/nutrition-info/screenshots/nutrition/Turkey_Patty_Sausage_2_nutrition.png
+Sides,Smoked Ham,SMOKED HAM,MATCH,,./output/nutrition-info/screenshots/nutrition/Smoked_Ham_nutrition.png
+Sides,Beef Patty,BEEF PATTY,MATCH,,./output/nutrition-info/screenshots/nutrition/Beef_Patty_nutrition.png
+Sides,Corned Beef Hash,CORNED BEEF HASH,MATCH,,./output/nutrition-info/screenshots/nutrition/Corned_Beef_Hash_nutrition.png
+Sides,Chicken (4 oz),CHICKEN (4 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_4_oz_nutrition.png
+Sides,Corn Tortillas (3),CORN TORTILLAS (3),MATCH,,./output/nutrition-info/screenshots/nutrition/Corn_Tortillas_3_nutrition.png
+Sides,Flour Tortillas (3),FLOUR TORTILLAS (3),MATCH,,./output/nutrition-info/screenshots/nutrition/Flour_Tortillas_3_nutrition.png
+Sides,Mexican Rice,MEXICAN RICE,MATCH,,./output/nutrition-info/screenshots/nutrition/Mexican_Rice_nutrition.png
+Sides,Refried Beans,REFRIED BEANS,MATCH,,./output/nutrition-info/screenshots/nutrition/Refried_Beans_nutrition.png
+Sides,Black Beans,BLACK BEANS,MATCH,,./output/nutrition-info/screenshots/nutrition/Black_Beans_nutrition.png
+Sides,White Toast,WHITE TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/White_Toast_nutrition.png
+Sides,Rye Toast,RYE TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Rye_Toast_nutrition.png
+Sides,Wheat Toast,WHEAT TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Wheat_Toast_nutrition.png
+Sides,Sourdough Toast,SOURDOUGH TOAST,MATCH,,./output/nutrition-info/screenshots/nutrition/Sourdough_Toast_nutrition.png
+Sides,Fresh Fruit,FRESH FRUIT,MATCH,,./output/nutrition-info/screenshots/nutrition/Fresh_Fruit_nutrition.png
+Sides,Home Fries,HOME FRIES,MATCH,,./output/nutrition-info/screenshots/nutrition/Home_Fries_nutrition.png
+Sides,Hash Browns,HASH BROWNS,MATCH,,./output/nutrition-info/screenshots/nutrition/Hash_Browns_nutrition.png
+Sides,French Fries,FRENCH FRIES,MATCH,,./output/nutrition-info/screenshots/nutrition/French_Fries_nutrition.png
+Sides,Sweet Potato Fries,SWEET POTATO FRIES,MATCH,,./output/nutrition-info/screenshots/nutrition/Sweet_Potato_Fries_nutrition.png
+Sides,Buttermilk Pancake (1),BUTTERMILK PANCAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Buttermilk_Pancake_1_nutrition.png
+Sides,Banana Pancake (1),BANANA PANCAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Banana_Pancake_1_nutrition.png
+Sides,Blueberry Pancake (1),BLUEBERRY PANCAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Blueberry_Pancake_1_nutrition.png
+Sides,Chocolate Chip Flavored Pancake (1),CHOCOLATE CHIP FLAVORED PANCAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Chocolate_Chip_Flavored_Pancake_1_nutrition.png
+Sides,Cinnacake (1),CINNACAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Cinnacake_1_nutrition.png
+Sides,Honey Wheat Pancake (1),HONEY WHEAT PANCAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Honey_Wheat_Pancake_1_nutrition.png
+Sides,Gluten Free Pancake (1),GLUTEN FREE PANCAKE (1),MATCH,,./output/nutrition-info/screenshots/nutrition/Gluten_Free_Pancake_1_nutrition.png
+Sides,French Toast (1),FRENCH TOAST (1),MATCH,,./output/nutrition-info/screenshots/nutrition/French_Toast_1_nutrition.png
+Sides,English Muffin,ENGLISH MUFFIN,MATCH,,./output/nutrition-info/screenshots/nutrition/English_Muffin_nutrition.png
+Sides,Blueberry Muffin,BLUEBERRY MUFFIN,MATCH,,./output/nutrition-info/screenshots/nutrition/Blueberry_Muffin_nutrition.png
+Sides,Biscuit,BISCUIT,MATCH,,./output/nutrition-info/screenshots/nutrition/Biscuit_nutrition.png
+Sides,Avocado (1/2),AVOCADO (1/2),MATCH,,./output/nutrition-info/screenshots/nutrition/Avocado_1_2_nutrition.png
+Sides,Onion Rings (Unseasoned),ONION RINGS (UNSEASONED),MATCH,,./output/nutrition-info/screenshots/nutrition/Onion_Rings_Unseasoned_nutrition.png
+Sides,Butter (2 oz),BUTTER (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Butter_2_oz_nutrition.png
+Sides,Balsamic Dressing (2 oz),BALSAMIC DRESSING (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Balsamic_Dressing_2_oz_nutrition.png
+Sides,Blue Cheese Dressing (2 oz),BLUE CHEESE DRESSING (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Blue_Cheese_Dressing_2_oz_nutrition.png
+Sides,Caesar Dressing (2 oz),CAESAR DRESSING (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Caesar_Dressing_2_oz_nutrition.png
+Sides,Honey Mustard Dressing (2 oz),HONEY MUSTARD DRESSING (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Honey_Mustard_Dressing_2_oz_nutrition.png
+Sides,Ranch Dressing (2 oz),RANCH DRESSING (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Ranch_Dressing_2_oz_nutrition.png
+Sides,Raspberry Vinaigrette (2 oz),RASPBERRY VINAIGRETTE (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Raspberry_Vinaigrette_2_oz_nutrition.png
+Sides,Thousand Island Dressing (2 oz),THOUSAND ISLAND DRESSING (2 OZ),MATCH,,./output/nutrition-info/screenshots/nutrition/Thousand_Island_Dressing_2_oz_nutrition.png
+Kid's Menu,Pancake,PANCAKE,MATCH,,./output/nutrition-info/screenshots/nutrition/Pancake_nutrition.png
+Kid's Menu,Fresh Toast Sticks,FRESH TOAST STICKS,MATCH,,./output/nutrition-info/screenshots/nutrition/Fresh_Toast_Sticks_nutrition.png
+Kid's Menu,Chicken Strips,CHICKEN STRIPS,MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Strips_nutrition.png
+Kid's Menu,Cheeseburger,CHEESEBURGER,MATCH,,./output/nutrition-info/screenshots/nutrition/Cheeseburger_nutrition.png
+Kid's Menu,Sweet Potato Fries,SWEET POTATO FRIES,MATCH,,./output/nutrition-info/screenshots/nutrition/Sweet_Potato_Fries_nutrition.png
+Kid's Menu,Scrambled Egg,SCRAMBLED EGG,MATCH,,./output/nutrition-info/screenshots/nutrition/Scrambled_Egg_nutrition.png
+Kid's Menu,Sausage,SAUSAGE,MATCH,,./output/nutrition-info/screenshots/nutrition/Sausage_nutrition.png
+Kid's Menu,Jr Yogurt Parfait,JR YOGURT PARFAIT,MATCH,,./output/nutrition-info/screenshots/nutrition/Jr_Yogurt_Parfait_nutrition.png
+Kid's Menu,Fruit,FRUIT,MATCH,,./output/nutrition-info/screenshots/nutrition/Fruit_nutrition.png
+Kid's Menu,French Fries,FRENCH FRIES,MATCH,,./output/nutrition-info/screenshots/nutrition/French_Fries_nutrition.png
+Kid's Menu,Bacon,BACON,MATCH,,./output/nutrition-info/screenshots/nutrition/Bacon_nutrition.png
+Kid's Menu,Orange Juice,ORANGE JUICE,MATCH,,./output/nutrition-info/screenshots/nutrition/Orange_Juice_nutrition.png
+Kid's Menu,Milk 2%,MILK 2%,MATCH,,./output/nutrition-info/screenshots/nutrition/Milk_2_nutrition.png
+Kid's Menu,Lemonade,LEMONADE,MATCH,,./output/nutrition-info/screenshots/nutrition/Lemonade_nutrition.png
+Kid's Menu,Jr Strawberry Banana Smoothie,JR STRAWBERRY BANANA SMOOTHIE,MATCH,,./output/nutrition-info/screenshots/nutrition/Jr_Strawberry_Banana_Smoothie_nutrition.png
+Kid's Menu,Jr Blueberry Banana Smoothie,JR BLUEBERRY BANANA SMOOTHIE,MATCH,,./output/nutrition-info/screenshots/nutrition/Jr_Blueberry_Banana_Smoothie_nutrition.png
+Kid's Menu,Apple Juice,APPLE JUICE,MATCH,,./output/nutrition-info/screenshots/nutrition/Apple_Juice_nutrition.png
+Kids Menu,Chicken Strips (2),CHICKEN STRIPS,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/Chicken_Strips_2_nutrition.png
+Kids Menu,FRENCH TOAST STICKS,,NOT_FOUND,,
+Kids Menu,Pancake,PANCAKE,MATCH,,./output/nutrition-info/screenshots/nutrition/Pancake_nutrition.png
+Kids Menu,1/2 Grilled Cheese,GRILLED CHEESE,VARIANT_MATCH,,./output/nutrition-info/screenshots/nutrition/1_2_Grilled_Cheese_nutrition.png
+Kids Menu,Cheeseburger,CHEESEBURGER,MATCH,,./output/nutrition-info/screenshots/nutrition/Cheeseburger_nutrition.png
+Kids Menu,Eggs (Any Style),,NOT_FOUND,,
+Beverages,Bellini,,NOT_FOUND,,
+Beverages,Pineapple Matcha Latte,,NOT_FOUND,,
+Beverages,Matcha Green Tea Latte,,NOT_FOUND,,
+Beverages,BYC Bloody Maria,,NOT_FOUND,,
+Beverages,Tropical Flight,,NOT_FOUND,,
+Beverages,Red Bull (8oz. Can),,NOT_FOUND,,
+Beverages,Red Bull Razz-Berry Rush,,NOT_FOUND,,
+Cocktails,Dreamsicle,,NOT_FOUND,,
+Cocktails,Dreamsicle,,NOT_FOUND,,
+Cocktails,Pucker Up Lemonade,,NOT_FOUND,,
+Cocktails,Pucker Up Lemonade,,NOT_FOUND,,
+Cocktails,Pomegranate Sunrise,,NOT_FOUND,,
+Cocktails,Pomegranate Sunrise,,NOT_FOUND,,
+Beverages,Bucket o' Bubbles,,NOT_FOUND,,
+Beverages,Bucket o' Bubbles,,NOT_FOUND,,
+Beverages,RedBull Mosa,,NOT_FOUND,,
+Beverages,Redbull Watermelon Margarita,,NOT_FOUND,,
+Cocktails,Espresso Martini,,NOT_FOUND,,
+Cocktails,Espresso Martini,,NOT_FOUND,,
+Beverages,Just the Bubbles,,NOT_FOUND,,
+Beverages,Just the Bubbles,,NOT_FOUND,,
+Catering,Gallon Orange Juice,,NOT_FOUND,,
+Catering,Hot Chocolate,,NOT_FOUND,,
+Catering,Coffee Tower,,NOT_FOUND,,
+Gallon Orange Juice,BROKEN YOLK - Catering: Orange Juice (8 fl oz),,NOT_FOUND,,
+Hot Chocolate Traveler,BROKEN YOLK - Catering: Hot Cocoa (8 fl oz),,NOT_FOUND,,
