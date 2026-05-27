@@ -1,7 +1,5 @@
 Command bash
 
-Command bash
-
 **UAT**
 Main - Menu
 MENU_TYPE=main-menu INPUT_FILE=./input/main-menu.csv node menu-checker.js
