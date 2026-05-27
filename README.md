@@ -1,5 +1,8 @@
 Command bash
 
+Command bash
+
+**UAT**
 Main - Menu
 MENU_TYPE=main-menu INPUT_FILE=./input/main-menu.csv node menu-checker.js
 
@@ -11,6 +14,37 @@ MENU_TYPE=catering INPUT_FILE=./input/catering-menu.csv NUTRITION_FILE=./input/m
 
 Nutritional_Info
 MENU_TYPE=nutrition-info NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
+
+---
+
+**PRE-PROD**
+Main - Menu
+ENVIRONMENT=preprod MENU_TYPE=main-menu INPUT_FILE=./input/main-menu.csv NUTRITION_FILE=./input/main-menu-nutrition.csv node
+menu-checker.js
+
+Kids - Menu
+ENVIRONMENT=preprod MENU_TYPE=kids-menu INPUT_FILE=./input/kids-menu.csv NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
+
+Catering
+ENVIRONMENT=preprod MENU_TYPE=catering INPUT_FILE=./input/catering.csv NUTRITION_FILE=./input/catering-nutrition.csv node menu-checker.js
+
+Nutritional_Info
+ENVIRONMENT=preprod MENU_TYPE=nutrition-info NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-validator.js
+
+---
+
+**Production**
+Main - Menu
+ENVIRONMENT=prod MENU_TYPE=main-menu INPUT_FILE=./input/main-menu.csv NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
+
+Kids - Menu
+ENVIRONMENT=prod MENU_TYPE=kids-menu INPUT_FILE=./input/kids-menu.csv NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
+
+Catering
+ENVIRONMENT=prod MENU_TYPE=catering INPUT_FILE=./input/catering.csv NUTRITION_FILE=./input/catering-nutrition.csv node menu-checker.js
+
+Nutritional_Info
+ENVIRONMENT=prod MENU_TYPE=nutrition-info NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
 
 ---
 
