@@ -24,7 +24,7 @@ Kids - Menu
 ENVIRONMENT=preprod MENU_TYPE=kids-menu INPUT_FILE=./input/kids-menu.csv NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
 
 Catering
-ENVIRONMENT=preprod MENU_TYPE=catering INPUT_FILE=./input/catering.csv NUTRITION_FILE=./input/catering-nutrition.csv node menu-checker.js
+ENVIRONMENT=preprod MENU_TYPE=catering INPUT_FILE=./input/catering-menu.csv NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-checker.js
 
 Nutritional_Info
 ENVIRONMENT=preprod MENU_TYPE=nutrition-info NUTRITION_FILE=./input/main-menu-nutrition.csv node menu-validator.js
